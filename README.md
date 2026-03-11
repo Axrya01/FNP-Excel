@@ -32,5 +32,4 @@ The goal of this project is to transform raw sales data into meaningful insights
 - Category and gender-based analysis
 - City-wise sales visualization
 
-## Project Structure
 
